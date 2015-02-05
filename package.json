@@ -1,5 +1,5 @@
 {
-  "name": "mean",
+  "name": "meetup0",
   "description": "MEAN.io: A fullstack JavaScript framework powered by MongoDB, ExpressJS, AngularJS, NodeJS.",
   "version": "0.4.3",
   "private": false,
@@ -31,6 +31,7 @@
     "cookie-parser": "1.3.3",
     "errorhandler": "1.3.0",
     "express": "4.11.1",
+    "express-session": "1.8.2",
     "forever": "0.11.1",
     "gridfs-stream": "0.5.3",
     "grunt-cli": "0.1.13",
